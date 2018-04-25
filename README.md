@@ -1,8 +1,8 @@
 # portfolio
 Just portfolio.
 
-![1](http://url/to/img.png)
+![1](https://github.com/janmager/e-12/blob/master/readme-img/1.PNG)
 
-![2](http://url/to/img.png)
+![2](https://github.com/janmager/e-12/blob/master/readme-img/2.PNG)
 
-![3](http://url/to/img.png)
+![3](https://github.com/janmager/e-12/blob/master/readme-img/3.PNG)
