@@ -1,5 +1,5 @@
-# portfolio
-Just portfolio.
+# e-12
+Project for school.
 
 ![1](https://github.com/janmager/e-12/blob/master/readme-img/1.PNG)
 
